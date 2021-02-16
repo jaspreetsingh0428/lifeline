@@ -1,0 +1,15 @@
+{
+    "name": "Lifeline",
+    "short_name": "rollout",
+    "description": "This helps you get Vaccinated!",
+    "icons": [{
+            "src": "covid.png",
+            "sizes": "600x600",
+            "type": "image/png"
+    }],
+    "scope": "/",
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "theme_color": "yellow",
+    "background_color": "orange"
+}
